@@ -1,0 +1,13 @@
+{
+    "assets":{
+
+        "MSFT":{
+            "indicator":"MSFT",
+            "apikey":"demo"
+        }
+    },
+    "trading_efficiency":{
+        "return_percentage":0.04,
+        "stop_loss":0.04
+    }
+}
